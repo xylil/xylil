@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hello stranger !!
 
-<!--
-**xylil/xylil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Here are things about me*
+```
+- Still learning (git, java etc)
+- Still attending vocational school
+- I learn whatever I'm interested in (well sometimes this is bad)
+```
 
-Here are some ideas to get you started:
+Thank you for taking the time to read :3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a nice day
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xylil&theme=holi&layout=compact&hide_title=false)
